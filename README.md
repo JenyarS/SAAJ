@@ -1,6 +1,6 @@
 # UKH Connect
 
-A web-based/App for university clubs and study groups at the University of Kurdistan Hewlêr (UKH).
+A web-based platform for university clubs and study groups at the University of Kurdistan Hewlêr (UKH).
 
 ## About the Project
 
@@ -18,11 +18,13 @@ UKH Connect aims to improve student collaboration by providing a centralized pla
 ## Technologies
 
 - **Programming Language:** Java
+- **Backend Framework:** Spring Boot
+- **Frontend:** HTML, CSS, JavaScript, Thymeleaf
+- **Architecture:** Layered MVC
 - **Version Control:** Git & GitHub
 - **Development Methodology:** Scrum
-- **Framework & Database:** (To be decided)
 
-# Team Members
+## Team Members
 
 | Name | Role |
 |---|---|
@@ -32,5 +34,6 @@ UKH Connect aims to improve student collaboration by providing a centralized pla
 | Aland Seerwan | Developer |
 | Arman Ashti | Developer |
 
-Developed by **Team SAAJ** for the CSE301 Software Engineering and Development course
+Developed by **Team SAAJ** for the CSE301 Software Engineering and Development course.
+
 All team members contribute to the development of UKH Connect.
